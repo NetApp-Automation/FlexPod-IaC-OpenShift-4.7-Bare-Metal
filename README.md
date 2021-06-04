@@ -95,4 +95,3 @@ If you would like to run a part of the deployment, you may use the appropriate t
 ### Authors
 
  * Arvind Ramakrishnan (arvind.ramakrishnan@netapp.com)
- * Abhinav Singh (abhinav.singh@netapp.com) 
