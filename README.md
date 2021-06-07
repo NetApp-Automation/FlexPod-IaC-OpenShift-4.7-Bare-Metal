@@ -1,6 +1,7 @@
 ### Automated ONTAP storage deployment using Ansible for FlexPod OpenShift 4.7 Bare-Metal
  
 This repository contains Ansible roles and playbooks for an end-to-end ONTAP storage deployment for OpenShift 4.7 in a FlexPod Datacenter.
+https://www.cisco.com/c/en/us/td/docs/unified_computing/ucs/UCS_CVDs/flexpod_redhat-OCP.html
 
 The ONTAP deployment automation is based on the following roles:
 
